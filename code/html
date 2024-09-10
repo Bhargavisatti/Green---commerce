@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustainable Marketplace</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sustainable Marketplace</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="product-list">
+            <article class="product">
+                <img src="path/to/product1.jpg" alt="Eco-friendly Product 1">
+                <h2>Eco-friendly Product 1</h2>
+                <p>Price: $29.99</p>
+                <button>Add to Cart</button>
+            </article>
+            <article class="product">
+                <img src="path/to/product2.jpg" alt="Eco-friendly Product 2">
+                <h2>Eco-friendly Product 2</h2>
+                <p>Price: $49.99</p>
+                <button>Add to Cart</button>
+            </article>
+            <!-- More products can be added here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Sustainable Marketplace</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
